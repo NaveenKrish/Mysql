@@ -1,0 +1,3 @@
+SELECT firstname, increment
+FROM  `employeedetails` 
+ORDER BY increment
