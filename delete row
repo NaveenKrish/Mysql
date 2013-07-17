@@ -1,0 +1,2 @@
+DELETE FROM employeedetails 
+WHERE firstname =  'amul';
