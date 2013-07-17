@@ -1,0 +1,8 @@
+CREATE TABLE EmployeeDetails 
+(
+    Employeid int,
+    FirstName varchar(100),
+    LastName varchar(100),
+    Salary int,
+    Increment int 
+);
